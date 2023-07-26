@@ -1,0 +1,8 @@
+D:\Simplilearn classes\Practice Projects\Section6\Directories\Directories\bin\Debug\Directories.exe.config
+D:\Simplilearn classes\Practice Projects\Section6\Directories\Directories\bin\Debug\Directories.exe
+D:\Simplilearn classes\Practice Projects\Section6\Directories\Directories\bin\Debug\Directories.pdb
+D:\Simplilearn classes\Practice Projects\Section6\Directories\Directories\obj\Debug\Directories.csproj.AssemblyReference.cache
+D:\Simplilearn classes\Practice Projects\Section6\Directories\Directories\obj\Debug\Directories.csproj.SuggestedBindingRedirects.cache
+D:\Simplilearn classes\Practice Projects\Section6\Directories\Directories\obj\Debug\Directories.csproj.CoreCompileInputs.cache
+D:\Simplilearn classes\Practice Projects\Section6\Directories\Directories\obj\Debug\Directories.exe
+D:\Simplilearn classes\Practice Projects\Section6\Directories\Directories\obj\Debug\Directories.pdb
